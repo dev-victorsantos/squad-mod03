@@ -1,0 +1,26 @@
+.imgmain {
+    width: 350px;
+    border-radius: 80px;
+    border: solid yellow;
+    margin-left: 70px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    animation-duration: 2.5s;
+    animation-name: slidein;
+    
+}
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }

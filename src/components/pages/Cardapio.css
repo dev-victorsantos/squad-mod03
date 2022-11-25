@@ -1,0 +1,27 @@
+.cardapio {
+    text-align: center;
+}
+
+.post {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #777;
+    animation-duration: 2.5s;
+    animation-name: slidein;
+    
+}
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+.post img {
+    width: 25%;
+}
