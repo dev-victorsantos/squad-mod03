@@ -10,6 +10,8 @@ React Router DOM;
 
 Os endpoints utilizado nesse trabalho foram: /cardapio, /mesas e o link do Json-server é o seguinte: https://projeto-individual-3.onrender.com
 
+Para acessar a área do administrador onde fica o put e o delete e mostra as mesas com os pedidos só colocar "/Admin" na barra de pesquisa!
+
 Integrantes
 [Leonnardo Lima] (https://github.com/LeonLima1)
 
